@@ -7,5 +7,5 @@ If you could show effectiv use of somthing like L3JA. Your employeer would proba
 
 To have a real impact systems like L3JA need to be an integrated and accepted part of society.
 
-In a hireing situation you need to present a portfolio generated from your L3JA related to the taskes you are expected to solve in your new job. Maybe it can flag other taskes in the organization you can solve, but are not part of the requierments, too.
+In a hireing situation you need to present a portfolio generated from your L3JA related to the taskes you are expected to solve in your new job. Maybe it can flag other taskes in the organization you can solve too.
 
