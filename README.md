@@ -20,3 +20,5 @@ This journal (idea) software differ from the Sugar Journal Activity mostly in th
 ### Dependencies/parts
 - Something like [mfrellum/littlebrother](https://github.com/mfrellum/littlebrother) for metadata storage and search
 - Something like [mfrellum/PragmaMS](https://github.com/mfrellum/PragmaMS) for archiving data
+
+### [Zotero group](https://www.zotero.org/groups/l3ja/items)
